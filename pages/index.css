@@ -1,4 +1,7 @@
-
 .title {
   background: rgb(186, 242, 121);
+}
+
+.email {
+  text-decoration: none;
 }
